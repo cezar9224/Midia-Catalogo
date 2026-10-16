@@ -1,0 +1,4 @@
+/target/
+*.war
+/src/main/resources/db.properties
+/xss-payloads.txt
